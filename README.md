@@ -1,0 +1,1 @@
+This is a project to make a bikes avalible for all people in London. Puting up Docking Station with a certain amout of bikes in it. We will also make a van to pick up bikes that dosnt work. 
