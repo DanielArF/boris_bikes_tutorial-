@@ -1,0 +1,44 @@
+As a person,
+So that I can use a bike,
+I'd like a docking station to release a bike.
+
+As a person,
+So that I can use a good bike,
+I'd like to see if a bike works
+
+ 
+1. Write down all the nouns in the User Stories
+-------------------------------------------------
+Person, Bike, Docking Station
+-------------------------------------------------
+2. Write down all the verbs in the User Stories
+-------------------------------------------------
+Use, Works, Release
+-------------------------------------------------
+3. Draw a table like the one above
+-------------------------------------------------
+| Objects       | Messages     |
+|---------------|--------------|
+| Person        | Use          |
+| Bike          | Works        |
+| DockingStation| Release_bike |
+-------------------------------------------------
+4. Organise the nouns and verbs into Objects and Messages within the table
+-------------------------------------------------
+
+
+
+-------------------------------------------------
+5. Draw a diagram that shows how your Objects will use Messages to communicate with one another
+-------------------------------------------------
+
+DockingStation <-- release --> bike
+Bike <-- works? --> yes/no
+
+
+
+
+
+-------------------------------------------------
+
+ Identify: 
